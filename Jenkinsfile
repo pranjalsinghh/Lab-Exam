@@ -16,4 +16,4 @@ pipeline{
                     echo 'EB-14'
         }
     }
-}}
+}
