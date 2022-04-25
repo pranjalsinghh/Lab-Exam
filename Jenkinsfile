@@ -3,16 +3,17 @@ pipeline{
     stages{
         stage ('Testing'){
             steps{
-                echo 'Lab exam testing'
-                python -u Lab-Exam.py
+                echo 'Pranjal Singh'
             }
         }
         stage ('Build'){
             steps{
-                echo 'Lab exam build'
-                
-                
+                echo 'E19CSE401'
+             
             }
+            stage ('Deploy'){
+                steps{
+                    echo 'EB-14'
         }
     }
-}
+}}
