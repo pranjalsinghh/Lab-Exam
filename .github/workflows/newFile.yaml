@@ -1,4 +1,4 @@
-name: CI Git Act
+name: CI
 
 # Run this workflow every time a commit gets pushed to main or a pusll request gets openedss against mbbain
 on:
