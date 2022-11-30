@@ -1,6 +1,6 @@
 name: CI
 
-# Run this workflow every time a commit gets pushed to main or a pusll request gets openedss against mbabs
+# Run this wts pushed to main or a pusll request gets openedss against mbabs
 on:
   push:
     branches:
