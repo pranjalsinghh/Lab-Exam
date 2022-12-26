@@ -1,6 +1,6 @@
 name: CI
 
-# Run this wts pushed to main or a pusll request gets openedss againt mbabs
+# Run this wts pushed to main or a pusll request gets openedss againt mbab
 on:
   push:
     branches:
